@@ -20,7 +20,7 @@ Manifest V3 browser extension with plain JavaScript and CSS. The transparent xol
 
 Normal tab → invite the xolo → pumpkin roll and brief cursor flicker → send him home → normal tab again. A silent 20–30 second screen recording is enough.
 
-## Links to fill before submitting
+## Submission links
 
-- Public repository: TODO
-- Demo video: TODO
+- Public repository: https://github.com/Forgewrld711/little-haunt-xolo
+- Demo video: https://raw.githubusercontent.com/Forgewrld711/little-haunt-xolo/main/demo.mp4
