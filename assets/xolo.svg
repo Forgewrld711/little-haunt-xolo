@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 150" role="img" aria-label="A small hairless xolo with large ears">
+  <defs><linearGradient id="skin" x2="0" y2="1"><stop stop-color="#856376"/><stop offset="1" stop-color="#3c2b42"/></linearGradient></defs>
+  <path d="M40 64 30 4q-2-9 7-3l31 43M97 44 128 2q8-7 7 4l-10 59" fill="url(#skin)" stroke="#2e233b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M43 45 39 14 60 43M105 42l21-28-5 36" fill="#c18d99"/>
+  <path d="M48 98q-31 4-29 35h18q0-12 13-13m69-22q30 3 26 35h-17q1-12-14-13" fill="none" stroke="#382a40" stroke-width="12" stroke-linecap="round"/>
+  <path d="M70 85q-13 15-8 48h57q5-32-9-48" fill="url(#skin)" stroke="#2e233b" stroke-width="5"/>
+  <path d="M33 49Q42 28 76 30q39-5 49 30 7 31-24 42l-6 8-10-8Q34 98 33 49Z" fill="url(#skin)" stroke="#2e233b" stroke-width="5"/>
+  <path d="M42 77q10-6 28-3m42-1q-7-4-18-2" fill="none" stroke="#ad8899" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="60" cy="64" rx="7" ry="9" fill="#f7e3cb"/><ellipse cx="103" cy="64" rx="7" ry="9" fill="#f7e3cb"/>
+  <circle cx="61" cy="65" r="4" fill="#211d2b"/><circle cx="102" cy="65" r="4" fill="#211d2b"/>
+  <ellipse cx="82" cy="85" rx="7" ry="5" fill="#251d2d"/>
+  <path d="M82 90q-3 7-8 7m8-7q4 7 9 6" fill="none" stroke="#251d2d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M115 112q10-16 23-14 16 5 6 21" fill="none" stroke="#382a40" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="54" cy="95" r="4" fill="#c28c97" opacity=".7"/><circle cx="108" cy="94" r="4" fill="#c28c97" opacity=".7"/>
+</svg>

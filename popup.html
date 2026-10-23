@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Little Haunt</title>
+  <style>
+    :root { color-scheme: dark; font-family: Georgia, serif; }
+    body { width: 240px; margin: 0; padding: 20px; color: #fff7ef; background: radial-gradient(circle at 80% 10%, #5a354f, #211a2b 60%); }
+    h1 { margin: 0 0 8px; font-size: 23px; }
+    p { margin: 0 0 18px; color: #e4d4db; line-height: 1.4; }
+    button { width: 100%; padding: 12px; border: 0; border-radius: 14px; font: bold 15px Georgia, serif; color: #281927; background: #ffc878; cursor: pointer; }
+    button:focus-visible { outline: 3px solid white; outline-offset: 3px; }
+    #status { min-height: 1.3em; margin: 12px 0 0; font-size: 12px; color: #f3cad0; }
+  </style>
+</head>
+<body>
+  <h1>Little Haunt 🐾</h1>
+  <p>A tiny xolo, one pumpkin, and a brief trick of the eye. Only on the tab you choose.</p>
+  <button id="toggle" type="button">Invite the xolo</button>
+  <p id="status" role="status" aria-live="polite"></p>
+  <script src="popup.js"></script>
+</body>
+</html>
