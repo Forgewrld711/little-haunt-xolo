@@ -15,6 +15,8 @@ Browser internal pages and extension stores do not permit injection. The hauntin
 
 ## 30-second demo
 
+[`demo.mp4`](demo.mp4) previews the content-script effect on Hackyard's public Yard #5 page: normal page, xolo/pumpkin, then clean dismissal. It does not show the browser-toolbar popup; install the extension to try that full flow.
+
 1. Start on an ordinary browser tab and show it looking normal.
 2. Open the extension popup and choose **Invite the xolo**. Let the dog and pumpkin appear at the bottom of the page.
 3. Wait for the brief cursor ghost and “boo. gently.” note. The pumpkin keeps rolling while the dog stays.
